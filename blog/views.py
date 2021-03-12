@@ -3,13 +3,13 @@ from django.http import HttpResponse
 # Create your views here.
 posts = [
   {
-    'author': 'AlejandroC',
+    'author': 'Alejandro C',
     'title': 'Blog Post 1',
     'content': 'first post content',
     'date_posted': 'August 27, 2021'
   },
   {
-      'author': 'JulieBerta',
+      'author': 'Julie Berta',
       'title': 'Blog Post 2',
       'content': 'second post content',
       'date_posted': 'August 28, 2021'
